@@ -10,7 +10,7 @@
       text="O cavaleiro sedento" font-size="22" color="black" x="40" y="350" width="500" height="100" />
     <agent img="Idle (1).png" x="0" y="48" width="100" height="100"/>
     <agent text="Que estava perdido no deserto" font-size="22" color="black" x="100" y="390"
-
+    < 
     
     </page>
 </fable>
