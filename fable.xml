@@ -8,6 +8,6 @@
     <agent img="2.png" x="0" y="0" width="50" height="50" /> 
     <agent
       text="O cavaleiro sedento" font-size="22" color="black" x="40" y="350" width="500" height="100" />
-    <agent
+    <agent img="Idle (1).png"
     </page>
 </fable>
