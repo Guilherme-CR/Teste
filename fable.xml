@@ -13,6 +13,9 @@
     <agent img="cactus.png" x="100" y="48" width="100" height="100"/>
     <agent img="Grass (2).png" x="200" y="48" width="100" height="50"/>
     <agent img="SignArrow.png" x="400" y="48" width="80" height="80" on-touch="_GOTO_PAGE:2"/>
+    
+    </page>
+        <page background
         
     
     </page>
