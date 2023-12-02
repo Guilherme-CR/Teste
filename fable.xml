@@ -48,7 +48,7 @@
                <agent img="bush.png" x="100" y="48" width="100" height="50"/>
                <agent img="Crate.png" x="300" y="48" width="80" height="80"/>
                <agent
-                 text="H2o aqui" col         
+                 text="H2o aqui" color="black" x="300" y="80" width="100" height=''        
                <agent img="SignArrow.png" x="400" y="48" width="80" height="80" on-touch="_GOTO_PAGE:4"/>
     </page>
 </fable>
