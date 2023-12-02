@@ -11,7 +11,9 @@
     <agent img="Idle (1).png" x="0" y="48" width="100" height="100"/>
     <agent text="Que estava perdido no deserto" font-size="22" color="black" x="100" y="390"/>
     <agent img="cactus.png" x="100" y="48" width="100" height="100"/>
-    <agent img="Grass (2).png" x="200" y="48" width="100" height="50"
+    <agent img="Grass (2).png" x="200" y="48" width="100" height="50"/>
+    <agente img="SingArrow.png" x="400" y="48" 
+        
     
     </page>
 </fable>
