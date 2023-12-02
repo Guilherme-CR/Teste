@@ -15,7 +15,8 @@
     <agent img="SignArrow.png" x="400" y="48" width="80" height="80" on-touch="_GOTO_PAGE:2"/>
     
     </page>
-        <page background
+        <page background="bg.png">
+            <agent img="Idle (1).png" x=""
         
     
     </page>
