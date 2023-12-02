@@ -26,9 +26,8 @@
            <agent
                 text="Quanto mais andava mais cansado e perdido ficava" font-size="22" color="black" x="40" y="350" width="500" height="100" />  
            <agent
-                text="Mas o problema principal era sede que sentia" font-size="22" color="black" x="40" y="390" width="500" height="100" />
-            <agent
-                text="" font-size="22" color="black" x="40" y="350" width="500" height="100" />
+                text="Mas o problema principal era sede que sentia" font-size="22" color="black" x="100" y="390" width="500" height="100" />
+            
     
     </page>
 </fable>
